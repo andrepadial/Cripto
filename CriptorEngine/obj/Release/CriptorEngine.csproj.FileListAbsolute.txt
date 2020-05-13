@@ -1,0 +1,5 @@
+c:\users\andre.padial\documents\visual studio 2015\Projects\CriptorEngine\CriptorEngine\bin\Release\CriptorEngine.dll
+c:\users\andre.padial\documents\visual studio 2015\Projects\CriptorEngine\CriptorEngine\bin\Release\CriptorEngine.pdb
+c:\users\andre.padial\documents\visual studio 2015\Projects\CriptorEngine\CriptorEngine\obj\Release\CriptorEngine.csprojResolveAssemblyReference.cache
+c:\users\andre.padial\documents\visual studio 2015\Projects\CriptorEngine\CriptorEngine\obj\Release\CriptorEngine.dll
+c:\users\andre.padial\documents\visual studio 2015\Projects\CriptorEngine\CriptorEngine\obj\Release\CriptorEngine.pdb
